@@ -1,0 +1,3154 @@
+/*  @media query 361 to 400 */
+ 
+@media(min-width: 361px) and (max-width: 400px){
+
+     /* Navigation style */ 
+     nav{
+      height: 90px;   
+     }
+  /* header portfolio hearing*/
+   nav #portfolio-heading{
+         font-size: 2.5rem;
+   }
+   
+   /* nav li font size */
+   .nav li{
+       font-size: 1rem;
+   }
+    /* siwtch button night /sun*/
+      
+#mode-toggle{
+      top: 45px; 
+ }
+ 
+     /* header style */ 
+     
+ .header_text{
+       margin: 1rem 0rem 0rem 1.4rem;
+ }
+    .typewriter {
+      font-size: 2.1rem;
+      }
+ .span_heading{
+     font-size: 1.3rem;
+     word-spacing: -2px;
+ }
+ .span_heading2{
+     font-size: 1.2rem;
+ }
+
+
+#header_pic{
+    margin-left: 65vw; 
+   position: relative:
+   top: -16rem;
+}
+
+/* about section */
+
+
+#about-pic {
+  width: 11rem;
+  height: 18rem;
+  margin-left: 0.3rem;
+  margin-top: 4rem;
+  }
+  
+  .glass_box {
+  width: 58vw;
+  padding: 1rem;
+  position: relative;
+  top: -1rem;
+  margin-left: -1rem;
+  }
+  
+  #p_of_glass_box{
+  font-size: 1.5rem;
+  }
+  
+   .bubbling-text {
+   font-size: 2.5rem;
+   margin-left: 4.5rem;
+   }
+   
+  
+  /* what i do section */ 
+  
+ .slider-container h2{
+ 
+ margin: 0rem 0rem 0rem 8rem;
+}
+.glass-card{
+    height: 15rem;
+}
+  .glass-card h3{
+    font-size: 2.5rem;  
+  }
+ .glass-card p{
+     font-size: 1.2rem; 
+  }
+   
+  /* project section */
+  
+  .card {
+  width: 75vw;
+  margin: 0rem 2rem 0rem 2rem;
+  }
+  
+  .card h1{
+    margin: 0rem 0rem 0rem 6.5rem;
+  }
+  .card h2{
+   font-size: 2rem;   
+  } 
+ .card p{
+   font-size: 1.2rem;   
+  } 
+  .links a{
+   font-size: 1.2rem;   
+  } 
+  
+  #scrollTopBtn {
+     font-size: 2.5rem;
+     }
+}
+
+
+
+@media(min-width: 401px) and (max-width: 450px){
+
+     /* navigation */
+  
+ /* header portfolio hearing */
+   nav #portfolio-heading{
+         font-size: 2.8rem;
+   }
+   
+     .nav{
+margin-top: -4%; 
+} 
+
+   /* nav li font size */
+   .nav li{
+       font-size: 1.2rem;
+   }
+    /* siwtch button night/sun*/
+    #mode-toggle{
+      top: 50px;
+ }
+  /* header */
+   
+ .header_text{
+       margin: 1rem 0rem 0rem 1.6rem; /* 2*/
+ }
+    .typewriter {
+      font-size: 2.3rem;
+      }
+ .span_heading{
+     font-size: 1.5rem;
+     word-spacing: -4px;
+ }
+ .span_heading2{
+     font-size: 1.4rem;
+ }
+
+
+#header_pic{
+
+width: 13rem;
+height: 18rem;
+margin-left: 65vw; 
+position: relative:
+   top: -16rem;  
+}
+
+
+/* about section */
+
+
+#about-pic {
+  width: 12rem;
+  height: 21rem;
+  margin-left: 0.7rem;
+  margin-top: 4rem;
+  }
+  
+  .glass_box {
+  width: 56vw;
+  padding: 1rem;
+  position: relative;
+  top: -1rem;
+  margin-left: -0.5rem;
+  }
+  
+  #p_of_glass_box{
+  font-size: 1.7rem;
+  }
+  
+   .bubbling-text {
+   font-size: 2.6rem;
+   margin-left: 5rem;
+   }
+   
+   
+  /* what i do section */ 
+  
+ .slider-container h2{
+ 
+ margin: 0rem 0rem 0rem 8rem;
+}
+.glass-card{
+width: 22.2rem;
+    height: 15rem;
+}
+  .glass-card h3{
+    font-size: 2.5rem; /* 2 */  
+  }
+ .glass-card p{
+     font-size: 1.2rem; 
+  }
+   
+  /* project section */
+  
+  .card {
+  width: 75vw;
+  margin: 0rem 2rem 0rem 2rem;
+  }
+  
+  .card h1{
+    margin: 0rem 0rem 0rem 7rem; /* 0.5 */ 
+  }
+  .card h2{
+   font-size: 2.2rem;  /* 2 */ 
+  } 
+ .card p{
+   font-size: 1.4rem; /* 2 */  
+  } 
+  .links a{
+   font-size: 1.4rem;  /* 2  */
+  } 
+  
+     #scrollTopBtn {
+     font-size: 3rem;
+     }
+  
+}
+
+
+
+
+
+@media(min-width: 451px) and (max-width: 500px){
+
+     /* navigation */
+  
+ /* header portfolio hearing */
+   nav #portfolio-heading{
+         font-size: 3.2rem;
+   }
+  .nav{
+margin-top: -3%; 
+margin-right: 1%;
+} 
+ 
+   /* nav li font size */
+   .nav li{
+       font-size: 1.3rem;
+   }
+   
+   /* siwtch button night / sun */
+     #mode-toggle{
+      top: 55px; 
+ }
+  /* header */
+   
+ .header_text{
+       margin: 1rem 0rem 0rem 2rem; /* 2 */
+ }
+    .typewriter {
+      font-size: 2.7rem;
+      }
+ .span_heading{
+     font-size: 1.9rem;
+     word-spacing: -8px;
+ }
+ .span_heading2{
+     font-size: 1.6rem;
+ }
+
+
+#header_pic{
+
+width: 15rem; /* 1*/
+height: 20rem; /* 1*/margin-left: 65vw; 
+position: relative;
+   top: -3rem;
+   }
+   
+   
+/* about section */
+
+
+#about-pic {
+  width: 12rem;
+  height: 21rem;
+  margin-left: 0.7rem;
+  margin-top: 4rem;
+  }
+  
+  .glass_box {
+  width: 60vw;
+  padding: 1rem;
+  position: relative;
+  top: -1rem;
+  margin-left: -0.5rem;
+  }
+  
+  #p_of_glass_box{
+  font-size: 1.8rem;
+  }
+  
+   .bubbling-text {
+   font-size: 2.8rem;
+   margin-left: 7rem;
+   }
+   
+  /* skills */ 
+   .skills-section {
+ margin-left: 5rem;
+  } 
+  
+  
+  /* what i do section */ 
+  
+ .slider-container h2{
+  margin: 0rem 0rem 0rem 10rem; /* 2 */
+}
+.glass-card{
+width: 22.2rem;
+    height: 15rem;
+}
+  .glass-card h3{
+    font-size: 2.5rem; /* 2 */  
+  }
+ .glass-card p{
+     font-size: 1.2rem; 
+  }
+   
+  /* project section */
+  
+  .card {
+  width: 78vw;
+  margin: 0rem 2rem 0rem 2rem;
+  }
+  
+  .card h1{
+    margin: 0rem 0rem 0rem 7rem; /* 0.5 */ 
+  }
+  .card h2{
+   font-size: 2.2rem;  /* 2 */ 
+  } 
+ .card p{
+   font-size: 1.4rem; /* 2 */  
+  } 
+  .links a{
+   font-size: 1.4rem;  /* 2  */
+  } 
+  
+  #scrollTopBtn {
+     font-size: 4rem;
+     }
+}
+
+
+
+
+@media(min-width: 501px) and (max-width: 550px){
+
+     /* navigation */
+  
+   nav{
+      height: 110px;
+ }
+ 
+ /* header portfolio hearing */
+   nav #portfolio-heading{
+         font-size: 3.2rem;
+   }
+   
+   
+  .nav{
+margin-top: -3%; 
+margin-right: 1%;
+} 
+ 
+   /* nav li font size */
+   .nav li{
+       font-size: 1.5rem;
+   }
+   
+    /* siwtch button night / sun */
+     #mode-toggle{
+      top: 60px; 
+ }
+ 
+ 
+  /* header */
+   
+ .header_text{
+       margin: 1rem 0rem 0rem 2.2rem; /* 2 */
+ }
+    .typewriter {
+      font-size: 2.9rem;
+      }
+ .span_heading{
+     font-size: 1.9rem;
+     word-spacing: -10px;
+ }
+ .span_heading2{
+     font-size: 1.8rem;
+ }
+
+
+#header_pic{
+
+width: 17rem; /* 1*/
+height: 22rem; /* 1*/margin-left: 65vw; 
+position: relative;
+   top: -4rem;
+}
+  .header_text button{
+      font-size: 2rem;
+  }
+  
+   
+/* about section */
+
+
+#about-pic {
+  width: 14rem;
+  height: 26rem;
+  margin-left: 0.7rem;
+  margin-top: 2rem;
+  }
+  
+  .glass_box {
+  width: 60vw;
+  padding: 1rem;
+  position: relative;
+  top: -1rem;
+  margin-left: 0rem;
+  }
+  
+  #p_of_glass_box{
+  font-size: 1.8rem;
+  }
+  
+   .bubbling-text {
+   font-size: 2.8rem;
+   margin-left: 8rem;
+   }
+   
+   /* skills */ 
+   .skills-section {
+ margin-left: 5.5rem;
+  }
+  
+  
+  
+  /* what i do section */ 
+  
+ .slider-container h2{
+ font-size: 4rem;
+  margin: 0rem 0rem 0rem 10rem; /* 2 */
+}
+.glass-card{
+width: 29rem;
+    height: 13rem;
+}
+  .glass-card h3{
+    font-size: 2.6rem; /* 2 */  
+  }
+ .glass-card p{
+     font-size: 1.5rem; 
+  }
+   
+  /* project section */
+  
+  .card {
+  width: 78vw;
+  margin: 0rem 2rem 0rem 2rem;
+  }
+  
+  .card h1{
+  font-size: 4rem;
+    margin: 0rem 0rem 0rem 7.5rem; /* 0.5 */ 
+  }
+  .card h2{
+   font-size: 2.6rem;  /* 2 */ 
+  } 
+ .card p{
+   font-size: 1.8rem; /* 2 */  
+  } 
+  .links a{
+   font-size: 1.6rem;  /* 2  */
+  } 
+  
+  
+  #scrollTopBtn {
+     font-size: 4.5rem;
+     }
+  }
+  
+
+@media(min-width: 551px) and (max-width: 600px){
+
+     /* navigation */
+   nav{
+      height: 120px;
+ }
+ /* header portfolio hearing */
+   nav #portfolio-heading{
+         font-size: 3.4rem;
+   }
+  .nav{
+margin-top: -2%;
+margin-right: 1%; 
+} 
+ 
+   /* nav li font size */
+   .nav li{
+       font-size: 1.7rem;
+   }
+   
+   /* siwtch button night / sun */
+     #mode-toggle{
+      top: 65px; 
+ }
+  
+  /* header */
+   
+ .header_text{
+       margin: 4rem 0rem 0rem 2.4rem; /* 2 */
+ }
+    .typewriter {
+      font-size: 3.1rem;
+      }
+ .span_heading{
+     font-size: 2.1rem;
+     word-spacing: -12px;
+ }
+ .span_heading2{
+     font-size: 2rem;
+ }
+
+
+#header_pic{
+
+width: 18rem; /* 1*/
+height: 23rem; /* 1*/margin-left: 65vw;
+
+position: relative;
+   top: -4rem;
+}
+  .header_text button{
+      font-size: 2.1rem;
+  }
+  
+    
+/* about section */
+
+about_section{
+    margin-top: -8rem;
+}
+
+#about-pic {
+  width: 15rem;
+  height: 28rem;
+  margin-left: 0.7rem;
+  margin-top: rem;
+  }
+  
+  .glass_box {
+  width: 60vw;
+  padding: 1rem;
+  position: relative;
+  top: -1rem;
+  margin-left: 1.3rem;
+  }
+  
+  #p_of_glass_box{
+  font-size: 1.8rem;
+  }
+  
+   .bubbling-text {
+   font-size: 2.8rem;
+   margin-left: 10rem;
+   }
+   /* skills */ 
+   .skills-section {
+ margin-left: 6rem;
+  }
+  
+  
+  
+  /* what i do section */ 
+  
+ .slider-container h2{
+ font-size: 4.2rem;
+  margin: 0rem 0rem 0rem 13rem; /* 2 */
+}
+.glass-card{
+width: 33rem;
+    height: 14rem;
+}
+  .glass-card h3{
+    font-size: 2.7rem; /* 2 */  
+  }
+ .glass-card p{
+     font-size: 1.6rem; 
+  }
+   
+  /* project section */
+  
+  .card {
+  width: 80vw;
+  margin: 0rem 2rem 0rem 2rem;
+  }
+  
+  .card h1{
+  font-size: 4.2rem;
+    margin: 0rem 0rem 0rem 8.5rem; /* 0.5 */ 
+  }
+  .card h2{
+   font-size: 2.7rem;  /* 2 */ 
+  } 
+ .card p{
+   font-size: 2rem; /* 2 */  
+  } 
+  .links a{
+   font-size: 1.8rem;  /* 2  */
+  } 
+  
+  
+  #scrollTopBtn {
+     font-size: 5rem;
+     }
+}
+
+
+@media(min-width: 601px) and (max-width: 650px){
+
+     /* navigation */
+   nav{
+      height: 130px;
+ }
+ /* header portfolio hearing */
+   nav #portfolio-heading{
+         font-size: 3.6rem;
+   margin: 1rem 0rem 0rem 1.2rem;
+   }
+  .nav{
+margin-top: -2%; 
+margin-right: 1%; 
+margin-left: 27%; 
+} 
+ 
+   /* nav li font size */
+   .nav li{
+       font-size: 2rem;
+   }
+    /* siwtch button night / sun */
+     #mode-toggle{
+      top: 70px; 
+      font-size: 2rem;
+ }
+ 
+ 
+  /* header */
+   
+ .header_text{
+       margin: 6rem 0rem 0rem 2.8rem; /* 2 */
+ }
+    .typewriter {
+      font-size: 3.3rem; /* 2*/
+      }
+ .span_heading{
+     font-size: 2.3rem; /* 2*/
+     word-spacing: -14px;/* 2*/
+ }
+ .span_heading2{
+     font-size: 2.2rem;/* 2*/
+ }
+
+
+#header_pic{
+
+width: 19rem; /* 1*/
+height: 24rem; /* 1*/margin-left: 65vw;
+position: relative;
+   top: -5rem;
+
+
+}
+  .header_text button{
+      font-size: 2.2rem; /* 1 */
+  }
+  
+/* about section */
+
+about_section{
+    margin-top: -8rem;
+}
+
+#about-pic {
+  width: 18rem;
+  height: 32rem;
+  margin-left: 0.7rem;
+  margin-top: 0rem;
+  }
+  
+  .glass_box {
+  width: 58vw;
+  padding: 1rem;
+  position: relative;
+  top: -1rem;
+  margin-left: 1.3rem;
+  }
+  
+  #p_of_glass_box{
+  font-size: 2rem;
+  }
+  
+   .bubbling-text {
+   font-size: 3rem;
+   margin-left: 13rem;
+   }
+   /* skills */ 
+   .skills-section {
+ margin-left: 6.5rem;
+  }
+  
+  
+  /* what i do section */ 
+  
+ .slider-container h2{
+ font-size: 4.4rem;
+  margin: 0rem 0rem 0rem 15rem; /* 2 */
+}
+.glass-card{
+width: 35rem;
+    height: 14rem;
+}
+  .glass-card h3{
+    font-size: 2.8rem; /* 2 */  
+  }
+ .glass-card p{
+     font-size: 1.7rem; 
+  }
+   
+.nav-btn {
+  font-size: 4rem;
+  }
+  
+  /* project section */
+  
+  .card {
+  width: 80vw;
+  margin: 0rem 2rem 0rem 2rem;
+  }
+  
+  .card h1{
+  font-size: 4.6rem;
+    margin: 0rem 0rem 0rem 9.5rem; /* 0.5 */ 
+  }
+  .card h2{
+   font-size: 3rem;  /* 2 */ 
+  } 
+ .card p{
+   font-size: 2.2rem; /* 2 */  
+  } 
+  .links a{
+   font-size: 2rem;  /* 2  */
+  } 
+  
+  
+  #scrollTopBtn {
+     font-size: 5.5rem;
+     }
+}
+
+
+@media(min-width: 651px) and (max-width: 700px){
+
+     /* navigation */
+   nav{
+      height: 140px;
+ }
+ /* header portfolio hearing */
+   nav #portfolio-heading{
+         font-size: 3.7rem;
+            margin: 1rem 0rem 0rem 1.2rem;
+   }
+  .nav{
+margin-top: -2%; 
+margin-right: 1%;
+margin-left: 27%;  
+} 
+ 
+   /* nav li font size */
+   .nav li{
+       font-size: 2.1rem;
+   }
+    /* siwtch button night / sun */
+      #mode-toggle{
+      top: 75px; 
+      font-size: 2.2rem;
+ }
+ 
+  /* header */
+   
+ .header_text{
+       margin: 8rem 0rem 0rem 3rem; /* 2 */
+ }
+    .typewriter {
+      font-size: 3.5rem; /* 2*/
+      }
+ .span_heading{
+     font-size: 2.5rem; /* 2*/
+     word-spacing: -16px;/* 2*/
+ }
+ .span_heading2{
+     font-size: 2.4rem;/* 2*/
+ }
+
+
+#header_pic{
+
+width: 20rem; /* 1*/
+height: 25rem; /* 1*/margin-left: 65vw;
+position: relative;
+   top: -6rem;
+
+
+}
+  .header_text button{
+      font-size: 2.3rem; /* 1 */
+  }
+  
+/* about section */
+
+about_section{
+    margin-top: -8rem;
+}
+
+#about-pic {
+  width: 21rem;
+  height: 30rem;
+  margin-left: 0.2rem;
+  margin-top: 7rem;
+  }
+  
+  .glass_box {
+  width: 58vw;
+  padding: 1rem;
+  position: relative;
+  top: -1rem;
+  margin-left: 0.7rem;
+  }
+  
+  #p_of_glass_box{
+  font-size: 2.5rem;
+  }
+  
+   .bubbling-text {
+   font-size: 4rem;
+   margin-left: 13rem;
+   }
+   /* skills */ 
+   .skills-section {
+ margin-left: 7rem;
+  }
+  
+  
+  
+  /* what i do section */ 
+  
+ .slider-container h2{
+ font-size: 5.5rem;
+  margin: 0rem 0rem 0rem 15rem; /* 2 */
+}
+.glass-card{
+width: 37rem;
+    height: 15rem;
+}
+  .glass-card h3{
+    font-size: 2.8rem; /* 2 */  
+  }
+ .glass-card p{
+     font-size: 1.8rem; 
+  }
+   
+.nav-btn {
+  font-size: 5rem;
+  }
+  
+  /* project section */
+  
+  .card {
+  width: 85vw;
+  margin: 0rem 2rem 0rem 2rem;
+  }
+  
+  .card h1{
+  font-size: 6rem;
+    margin: 0rem 0rem 0rem 11rem; /* 0.5 */ 
+  }
+  .card h2{
+   font-size: 3.2rem;  /* 2 */ 
+  } 
+ .card p{
+   font-size: 2.6rem; /* 2 */  
+  } 
+  .links a{
+   font-size: 2.2rem;  /* 2  */
+  } 
+  
+  
+  #scrollTopBtn {
+     font-size: 6rem;
+     }
+}
+
+
+@media(min-width: 701px) and (max-width: 750px){
+
+     /* navigation */
+   nav{
+      height: 150px;
+ }
+ /* header portfolio hearing */
+   nav #portfolio-heading{
+         font-size: 4rem;
+            margin: 1rem 0rem 0rem 1.2rem;
+   }
+  .nav{
+margin-top: -2%; 
+margin-right: 1%;
+margin-left: 27%;  
+} 
+ 
+   /* nav li font size */
+   .nav li{
+       font-size: 2.3rem;
+   }
+    /* siwtch button night / sun */
+       #mode-toggle{
+      top: 80px; 
+      font-size: 2.5rem;
+ }
+ /* header */
+   
+ .header_text{
+       margin: 12rem 0rem 0rem 3.2rem; /* 2 */
+ }
+    .typewriter {
+      font-size: 3.7rem; /* 2*/
+      }
+ .span_heading{
+     font-size: 2.7rem; /* 2*/
+     word-spacing: -18px;/* 2*/
+ }
+ .span_heading2{
+     font-size: 2.6rem;/* 2*/
+ }
+
+
+#header_pic{
+
+width: 21rem; /* 1*/
+height: 28rem; /* 3*/margin-left: 65vw;
+position: relative;
+   top: -8rem;
+
+
+}
+  .header_text button{
+      font-size: 2.4rem; /* 1 */
+  }
+  
+  
+/* about section */
+
+about_section{
+    margin-top: -8rem;
+}
+
+#about-pic {
+  width: 21rem;
+  height: 36rem;
+  margin-left: 0.7rem;
+  margin-top: 0.5rem;
+  }
+  
+  .glass_box {
+  width: 58vw;
+  padding: 1rem;
+  position: relative;
+  top: -1rem;
+  margin-left: 1.3rem;
+  }
+  
+  #p_of_glass_box{
+  font-size: 2.3rem;
+  }
+  
+   .bubbling-text {
+   font-size: 4.3rem;
+   margin-left: 13rem;
+   }
+   /* skills */ 
+   .skills-section {
+ margin-left: 7.5rem;
+  }
+  
+  /* what i do section */ 
+  
+ .slider-container h2{
+ font-size: 6rem;
+  margin: 0rem 0rem 0rem 17rem; /* 2 */
+}
+.glass-card{
+width: 38rem;
+    height: 16rem;
+}
+  .glass-card h3{
+    font-size: 2.8rem; /* 2 */  
+  }
+ .glass-card p{
+     font-size: 1.9rem; 
+  }
+   
+.nav-btn {
+  font-size: 6rem;
+  }
+  
+  /* project section */
+  
+  .card {
+  width: 86vw;
+  margin: 0rem 2rem 0rem 2rem;
+  }
+  
+  .card h1{
+  font-size: 6.5rem;
+    margin: 0rem 0rem 0rem 13rem; /* 0.5 */ 
+  }
+  .card h2{
+   font-size: 3.4rem;  /* 2 */ 
+  } 
+ .card p{
+   font-size: 2.8rem; /* 2 */  
+  } 
+  .links a{
+   font-size: 2.4rem;  /* 2  */
+  } 
+  
+  
+  #scrollTopBtn {
+     font-size: 6.5rem;
+     }
+}
+
+
+@media(min-width: 751px) and (max-width: 800px){
+
+     /* header */
+   nav{
+      height: 160px;
+ }
+ /* header portfolio hearing */
+   nav #portfolio-heading{
+         font-size: 4.2rem;
+         margin: 1rem 0rem 0rem 1.4rem;
+   }
+  .nav{
+margin-top: -2%; 
+margin-right: 1%;
+margin-left: 27%;  
+} 
+ 
+   /* nav li font size */
+   .nav li{
+       font-size: 2.5rem;
+   }
+    /* siwtch button night / sun */
+        #mode-toggle{
+      top: 85px; 
+      font-size: 2.7rem;
+ }
+ 
+ /* header */
+   
+ .header_text{
+       margin: 14rem 0rem 0rem 3.4rem; /* 2 */
+ }
+    .typewriter {
+      font-size: 3.9rem; /* 2*/
+      }
+ .span_heading{
+     font-size: 2.9rem; /* 2*/
+     word-spacing: -20px;/* 2*/
+ }
+ .span_heading2{
+     font-size: 2.8rem;/* 2*/
+ }
+
+
+#header_pic{
+
+width: 22rem; /* 1*/
+height: 31rem; /* 3*/margin-left: 65vw;
+position: relative;
+   top: -10rem;
+
+
+}
+  .header_text button{
+      font-size: 2.5rem; /* 1 */
+  }
+  
+/* about section */
+
+about_section{
+    margin-top: -8rem;
+}
+
+#about-pic {
+  width: 22rem;
+  height: 39rem;
+  margin-left: 0.7rem;
+  margin-top: 0.5rem;
+  }
+  
+  .glass_box {
+  width: 58vw;
+  padding: 1rem;
+  position: relative;
+  top: -1rem;
+  margin-left: 1.3rem;
+  }
+  
+  #p_of_glass_box{
+  font-size: 2.5rem;
+  }
+  
+   .bubbling-text {
+   font-size: 3.8rem;
+   margin-left: 16rem;
+   }
+   
+   /* skills */ 
+   .skills-section {  
+ margin-left: 9rem;
+  }
+  
+  
+  /* what i do section */ 
+  
+ .slider-container h2{
+ font-size: 6.5rem;
+  margin: 0rem 0rem 0rem 19rem; /* 2 */
+}
+.glass-card{
+width: 39rem;
+    height: 17rem;
+}
+  .glass-card h3{
+    font-size: 2.9rem; /* 2 */  
+  }
+ .glass-card p{
+     font-size: 2rem; 
+  }
+   
+.nav-btn {
+  font-size: 7rem;
+  }
+  
+  /* project section */
+  
+  .card {
+  width: 84vw;
+  margin: 0rem 2rem 0rem 2rem;
+  }
+  
+  .card h1{
+  font-size: 6.7rem;
+    margin: 0rem 0rem 0rem 15rem; /* 0.5 */ 
+  }
+  .card h2{
+   font-size: 3.6rem;  /* 2 */ 
+  } 
+ .card p{
+   font-size: 3rem; /* 2 */  
+  } 
+  .links a{
+   font-size: 2.6rem;  /* 2  */
+  } 
+  
+  
+  #scrollTopBtn {
+     font-size: 7rem;
+     }
+}
+
+@media(min-width: 801px) and (max-width: 850px){
+
+     /* navigation */
+   nav{
+      height: 170px;
+ }
+ /* header portfolio hearing */
+   nav #portfolio-heading{
+         font-size: 4.5rem;
+         margin: 1rem 0rem 0rem 1.4rem;
+   }
+  .nav{
+margin-top: -2%; 
+margin-right: 1%;
+margin-left: 27%;  
+} 
+ 
+   /* nav li font size */
+   .nav li{
+       font-size: 2.8rem;
+       margin: 1rem 0rem 0rem 1.4rem;
+   }
+     /* siwtch button night / sun */
+        #mode-toggle{
+      top: 90px; 
+      font-size: 3rem;
+ }
+ 
+ /* header */
+   
+ .header_text{
+       margin: 16rem 0rem 0rem 3.6rem; /* 2 */
+       line-height: 1.5;
+ }
+    .typewriter {
+      font-size: 4.1rem; /* 2*/
+      }
+ .span_heading{
+     font-size: 3.2rem; /* 2*/
+     word-spacing: -22px;/* 2*/
+ }
+ .span_heading2{
+     font-size: 3rem;/* 2*/
+ }
+
+
+#header_pic{
+
+width: 25rem; /* 1*/
+height: 37rem; /* 3*/margin-left: 65vw;
+position: relative;
+   top: -16rem;
+
+
+}
+  .header_text button{
+      font-size: 2.6rem; /* 1 */
+  }
+  
+/* about section */
+
+about_section{
+    margin-top: -8rem;
+}
+
+#about-pic {
+  width: 24rem;
+  height: 41rem;
+  margin-left: 0.7rem;
+  margin-top: 0.5rem;
+  }
+  
+  .glass_box {
+  width: 58vw;
+  padding: 1rem;
+  position: relative;
+  top: -1rem;
+  margin-left: 1.3rem;
+  }
+  
+  #p_of_glass_box{
+  font-size: 2.6rem;
+  }
+  
+   .bubbling-text {
+   font-size: 3.9rem;
+   margin-left: 15rem;
+   }
+   
+   /* skills */ 
+   
+   .skills-section {
+    width: 40vw;
+    margin-left: 1rem;
+    position: relative;
+
+  }
+ .skills-wrapper{
+     gap: 250px;
+     color: #fff;
+     margin-top: -50rem;
+ position: relative;
+    grid-template-columns: repeat(2, 140px);
+    justify-content: end;   
+    column-gap: 12rem;                        /  
+ }
+ 
+.circle-box {
+  width: 80px;
+  height: 10px;
+  margin-right: 10rem;
+  }
+.circle-box .percent{
+  margin-top: 0;
+    top: 50%;
+    transform: translate(10%, 95%);  
+} 
+
+.circle-box .skill-label {
+    
+    margin-left: 3rem; 
+    font-size: 1.5rem; 
+  }
+  
+  /* what i do section */ 
+  
+ .slider-container h2{
+ font-size: 7.5rem;
+  margin: 0rem 0rem 0rem 21rem; /* 2 */
+}
+.glass-card{
+width: 41rem;
+    height: 19rem;
+}
+  .glass-card h3{
+    font-size: 3.1rem; /* 2 */  
+  }
+ .glass-card p{
+     font-size: 2.2rem; 
+  }
+   
+.nav-btn {
+  font-size: 9rem;
+  }
+  
+  /* project section */
+  
+  .card {
+  width: 84vw;
+  margin: 0rem 2rem 0rem 3rem;
+  }
+  
+  .card h1{
+  font-size: 7.1rem;
+    margin: 0rem 0rem 0rem 19rem; /* 0.5 */ 
+  }
+  .card h2{
+   font-size: 4rem;  /* 2 */ 
+  } 
+ .card p{
+   font-size: 3.4rem; /* 2 */  
+  } 
+  .links a{
+   font-size: 3rem;  /* 2  */
+  } 
+  
+  
+  #scrollTopBtn {
+     font-size: 7.5rem;
+     }
+}
+
+
+
+
+@media(min-width: 851px) and (max-width: 900px){
+
+     /* navigation */
+   nav{
+      height: 180px;
+ }
+ /* header portfolio hearing */
+   nav #portfolio-heading{
+         font-size: 4.6rem;
+         margin: 1rem 0rem 0rem 1.4rem;
+   }
+  .nav{
+margin-top: -1%; 
+margin-right: 1%;
+margin-left: 25%;  
+} 
+ 
+   /* nav li font size */
+   .nav li{
+       font-size: 3rem;
+   }
+      /* siwtch button night / sun */
+        #mode-toggle{
+      top: 95px; 
+      font-size: 3.3rem;
+ }
+ 
+ 
+ /* header */
+   
+ .header_text{
+       margin: 18rem 0rem 0rem 3.8rem; /* 2 */
+       line-height: 1.5;
+ }
+    .typewriter {
+      font-size: 4.3rem; /* 2*/
+      }
+ .span_heading{
+     font-size: 3.4rem; /* 2*/
+     word-spacing: -22px;/* 2*/
+ }
+ .span_heading2{
+     font-size: 3.2rem;/* 2*/
+ }
+
+
+#header_pic{
+
+width: 26rem; /* 1*/
+height: 36rem; /* 3*/margin-left: 65vw;
+position: relative;
+   top: -18rem;
+
+
+}
+  .header_text button{
+      font-size: 2.7rem; /* 1 */
+  }
+  
+/* about section */
+
+about_section{
+    margin-top: -8rem;
+}
+
+#about-pic {
+  width: 24rem;
+  height: 41rem;
+  margin-left: 0.7rem;
+  margin-top: 0.5rem;
+  }
+  
+  .glass_box {
+  width: 58vw;
+  padding: 1rem;
+  position: relative;
+  top: -1rem;
+  margin-left: 1.3rem;
+  }
+  
+  #p_of_glass_box{
+  font-size: 2.8rem;
+  }
+  
+   .bubbling-text {
+   font-size: 4rem;
+   margin-left: 16rem;
+   }
+   
+   /* skills lines  */ 
+   
+   .skills-section {
+    width: 40vw;
+    margin-left: 1rem;
+    position: relative;
+  }
+  
+  .skill-name{
+     font-size: 2rem;
+  }
+ /* skills circle */  
+ .skills-wrapper{
+     gap: 250px;
+     color: #fff;
+     margin-top: -55rem;
+ position: relative;
+    grid-template-columns: repeat(2, 140px);
+    justify-content: end;   
+    column-gap: 12rem;                     
+ }
+ 
+.circle-box {
+  width: 80px;
+  height: 10px;
+  margin-right: 10rem;
+  }
+.circle-box .percent{
+  margin-top: 0;
+    top: 50%;
+    transform: translate(10%, 95%);  
+} 
+
+.circle-box .skill-label {
+    
+    margin-left: 3rem; 
+    font-size: 1.8rem; 
+  }
+  
+  /* what i do section */ 
+  
+ .slider-container h2{
+ font-size: 7.5rem;
+  margin: 0rem 0rem 0rem 20rem; /* 2 */
+}
+.glass-card{
+width: 50rem;
+    height: 20rem;
+}
+  .glass-card h3{
+    font-size: 3.3rem; /* 2 */  
+  }
+ .glass-card p{
+     font-size: 2.4rem; 
+  }
+   
+.nav-btn {
+  font-size: 10rem;
+  }
+  
+  /* project section */
+  
+  .card {
+  width: 85vw;
+  margin: 0rem 2rem 0rem 3rem;
+  }
+  
+  .card h1{
+  font-size: 7.4rem;
+    margin: 0rem 0rem 0rem 18rem; /* 0.5 */ 
+  }
+  .card h2{
+   font-size: 4.2rem;  /* 2 */ 
+  } 
+ .card p{
+   font-size: 3.6rem; /* 2 */  
+  } 
+  .links a{
+   font-size: 3.2rem;  /* 2  */
+  }
+  
+  
+  #scrollTopBtn {
+     font-size: 8rem;
+     }
+}
+
+
+@media(min-width: 901px) and (max-width: 950px){
+
+     /* header */
+   nav{
+      height: 190px;
+ }
+ /* header portfolio hearing */
+   nav #portfolio-heading{
+         font-size: 4.8rem;
+         margin: 1rem 0rem 0rem 1.4rem;
+   }
+  .nav{
+margin-top: -1%; 
+margin-right: 1%;
+margin-left: 25%;  
+} 
+ 
+   /* nav li font size */
+   .nav li{
+       font-size: 3.3rem;
+   }
+       /* siwtch button night / sun */
+        #mode-toggle{
+      top: 100px; 
+      font-size: 3.6rem;
+ }
+ 
+ 
+ /* header */
+   
+ .header_text{
+       margin: 20rem 0rem 0rem 4rem; /* 2 */
+       line-height: 1.6;
+ }
+    .typewriter {
+      font-size: 4.5rem; /* 2*/
+      }
+ .span_heading{
+     font-size: 3.6rem; /* 2*/
+     word-spacing: -22px;/* 2*/
+ }
+ .span_heading2{
+     font-size: 3.4rem;/* 2*/
+ }
+
+
+#header_pic{
+
+width: 27rem; /* 1*/
+height: 36rem; /* 3*/margin-left: 65vw;
+position: relative;
+   top: -18rem;
+
+
+}
+  .header_text button{
+      font-size: 3.5rem; /* 1 */
+  }
+  
+/* about section */
+
+about_section{
+    margin-top: -8rem;
+}
+
+#about-pic {
+  width: 25rem;
+  height: 45rem;
+  margin-left: 0.8rem;
+  margin-top: 1rem;
+  }
+  
+  .glass_box {
+  width: 60vw;
+  padding: 1rem;
+  position: relative;
+  top: -1rem;
+  margin-left: 1.3rem;
+  }
+  
+  #p_of_glass_box{
+  font-size: 3rem;
+  }
+  
+   .bubbling-text {
+   font-size: 5rem;
+   margin-left: 16rem;
+   }
+  
+   /* skills lines  */ 
+   
+   .skills-section {
+    width: 40vw;
+    margin-left: 1rem;
+    position: relative;
+  }
+  
+  .skill-name{
+     font-size: 2rem;
+  }
+ /* skills circle */  
+ .skills-wrapper{
+     gap: 250px;
+     color: #fff;
+     margin-top: -55rem;
+ position: relative;
+    grid-template-columns: repeat(2, 140px);
+    justify-content: end;   
+    column-gap: 12rem;                     
+ }
+ 
+.circle-box {
+  width: 80px;
+  height: 10px;
+  margin-right: 10rem;
+  }
+.circle-box .percent{
+  margin-top: 0;
+    top: 50%;
+    transform: translate(10%, 95%);  
+} 
+
+.circle-box .skill-label {
+    
+    margin-left: 3rem; 
+    font-size: 1.8rem; 
+  }
+  
+ 
+  /* what i do section */ 
+  
+ .slider-container h2{
+ font-size: 8rem;
+  margin: 0rem 0rem 0rem 22rem; /* 2 */
+}
+.glass-card{
+width: 52rem;
+    height: 21rem;
+}
+  .glass-card h3{
+    font-size: 3.4rem; /* 2 */  
+  }
+ .glass-card p{
+     font-size: 2.5rem; 
+  }
+   
+.nav-btn {
+  font-size: 11rem;
+  }
+  
+  /* project section */
+  
+  .card {
+  width: 86vw;
+  margin: 0rem 2rem 0rem 3rem;
+  }
+  
+  .card h1{
+  font-size: 7.5rem;
+    margin: 0rem 0rem 0rem 19rem; /* 0.5 */ 
+  }
+  .card h2{
+   font-size: 4.3rem;  /* 2 */ 
+  } 
+ .card p{
+   font-size: 3.8rem; /* 2 */  
+  } 
+  .links a{
+   font-size: 3.4rem;  /* 2  */
+  } 
+  
+  #scrollTopBtn {
+     font-size: 8.5rem;
+     }
+  
+}
+
+@media(min-width: 951px) and (max-width: 1000px){
+
+     /* header */
+   nav{
+      height: 200px;
+ }
+ /* header portfolio hearing */
+   nav #portfolio-heading{
+         font-size: 5rem;
+           margin: 1rem 0rem 0rem 1.6rem;
+   }
+  .nav{
+margin-top: -1%; 
+margin-right: 1%;
+margin-left: 25%;  
+} 
+ 
+   /* nav li font size */
+   .nav li{
+       font-size: 3.5rem;
+   }
+       /* siwtch button night / sun */
+        #mode-toggle{
+      top: 105px; 
+      font-size: 3.9rem;
+ }
+ 
+ /* header */
+   
+ .header_text{
+       margin: 20rem 0rem 0rem 4.2rem; /* 2 */
+       line-height: 1.5;
+ }
+    .typewriter {
+      font-size: 4.7rem; /* 2*/
+      }
+ .span_heading{
+     font-size: 3.8rem; /* 2*/
+     word-spacing: -18px;/* 2*/
+ }
+ .span_heading2{
+     font-size: 3.6rem;/* 2*/
+ }
+
+
+#header_pic{
+
+width: 30rem; /* 1*/
+height: 38rem; /* 3*/margin-left: 65vw;
+position: relative;
+   top: -20rem;
+
+
+}
+  .header_text button{
+      font-size: 4rem; /* 1 */
+  }
+  
+/* about section */
+
+about_section{
+    margin-top: -8rem;
+}
+
+#about-pic {
+  width: 26rem;
+  height: 48rem;
+  margin-left: 0.8rem;
+  margin-top: 1rem;
+  }
+  
+  .glass_box {
+  width: 61vw;
+  padding: 1rem;
+  position: relative;
+  top: -1rem;
+  margin-left: 1.3rem;
+  }
+  
+  #p_of_glass_box{
+  font-size: 3.3rem;
+  }
+  
+   .bubbling-text {
+   font-size: 7rem;
+   margin-left: 16rem;
+   }
+  
+   /* skills lines  */ 
+   
+   .skills-section {
+    width: 40vw;
+    margin-left: 1rem;
+    position: relative;
+  }
+  
+  .skill-name{
+     font-size: 2rem;
+  }
+ /* skills circle */  
+ .skills-wrapper{
+     gap: 250px;
+     color: #fff;
+     margin-top: -55rem;
+ position: relative;
+    grid-template-columns: repeat(2, 140px);
+    justify-content: end;   
+    column-gap: 12rem;                     
+ }
+ 
+.circle-box {
+  width: 80px;
+  height: 10px;
+  margin-right: 13rem;
+  }
+.circle-box .percent{
+  margin-top: 0;
+    top: 50%;
+    transform: translate(10%, 95%);  
+} 
+
+.circle-box .skill-label {
+    
+    margin-left: 3rem; 
+    font-size: 1.8rem; 
+  }
+    
+  /* what i do section */ 
+  
+ .slider-container h2{
+ font-size: 8.5rem;
+  margin: 0rem 0rem 0rem 23rem; /* 2 */
+}
+.glass-card{
+width: 54rem;
+    height: 23rem;
+}
+  .glass-card h3{
+    font-size: 3.5rem; /* 2 */  
+  }
+ .glass-card p{
+     font-size: 2.6rem; 
+  }
+   
+.nav-btn {
+  font-size: 12rem;
+  }
+  
+  /* project section */
+  
+  .card {
+  width: 87vw;
+  margin: 0rem 2rem 0rem 3rem;
+  }
+  
+  .card h1{
+  font-size: 7.7rem;
+    margin: 0rem 0rem 0rem 20rem; /* 0.5 */ 
+  }
+  .card h2{
+   font-size: 4.5rem;
+   padding: 1rem;  /* 2 */ 
+  } 
+ .card p{
+   line-height: 6rem;
+   font-size: 4rem; /* 2 */  
+  } 
+  .links a{
+   font-size: 3.6rem;  /* 2  */
+  }
+  
+  
+  #scrollTopBtn {
+     font-size: 9rem;
+     }
+}
+
+
+@media(min-width: 1001px) and (max-width: 1050px){
+
+     /* navigation */
+   nav{
+      height: 210px;
+ }
+ /* header portfolio hearing */
+   nav #portfolio-heading{
+         font-size: 5.1rem;
+           margin: 1rem 0rem 0rem 1.6rem;
+   }
+  .nav{
+margin-top: -1%; 
+margin-right: 1%;
+margin-left: 25%;  
+} 
+ 
+   /* nav li font size */
+   .nav li{
+       font-size: 3.5rem;
+   }
+        /* siwtch button night / sun */
+        #mode-toggle{
+      top: 110px; 
+      font-size: 4.2rem;
+ }
+ 
+ /* header */
+   
+ .header_text{
+       margin: 24rem 0rem 0rem 4.4rem; /* 2 */
+       line-height: 1.5;
+ }
+    .typewriter {
+      font-size: 4.9rem; /* 2*/
+      }
+ .span_heading{
+     font-size: 4rem; /* 2*/
+     word-spacing: -16px;/* 2*/
+ }
+ .span_heading2{
+     font-size: 3.8rem;/* 2*/
+ }
+
+
+#header_pic{
+
+width: 31rem; /* 1*/
+height: 43rem; /* 3*/margin-left: 67vw;
+position: relative;
+   top: -24rem;
+
+
+}
+  .header_text button{
+      font-size: 4rem; /* 1 */
+  }
+  
+/* about section */
+
+about_section{
+    margin-top: -6rem;
+}
+
+#about-pic {
+  width: 27rem;
+  height: 50rem;
+  margin-left: 0.8rem;
+  margin-top: 1rem;
+  }
+  
+  .glass_box {
+  width: 62vw;
+  padding: 1rem;
+  position: relative;
+  top: -1rem;
+  margin-left: 1.3rem;
+  }
+  
+  #p_of_glass_box{
+  font-size: 3.4rem;
+  }
+  
+   .bubbling-text {
+   font-size: 8rem;
+   margin-left: 16rem;
+   }
+  
+   /* skills lines  */ 
+   
+   .skills-section {
+    width: 40vw;
+    margin-left: 1rem;
+    position: relative;
+  }
+  
+  .skill-name{
+     font-size: 2rem;
+  }
+ /* skills circle */  
+ .skills-wrapper{
+     gap: 250px;
+     color: #fff;
+     margin-top: -59rem;
+ position: relative;
+    grid-template-columns: repeat(2, 140px);
+    justify-content: end;   
+    column-gap: 12rem;                     
+ }
+ 
+.circle-box {
+  width: 80px;
+  height: 10px;
+  margin-right: 17rem;
+  }
+.circle-box .percent{
+  margin-top: 0;
+    top: 50%;
+    transform: translate(10%, 95%);  
+} 
+
+.circle-box .skill-label {
+    
+    margin-left: 3rem; 
+    font-size: 1.8rem; 
+  }
+  
+  /* what i do section */ 
+  
+ .slider-container h2{
+ font-size: 9rem;
+  margin: 0rem 0rem 0rem 24rem; /* 2 */
+}
+.glass-card{
+width: 56rem;
+    height: 25rem;
+}
+  .glass-card h3{
+    font-size: 3.7rem; /* 2 */  
+  }
+ .glass-card p{
+     font-size: 2.7rem; 
+  }
+   
+.nav-btn {
+  font-size: 13rem;
+  }
+  
+  /* project section */
+  
+  .card {
+  width: 88vw;
+  margin: 0rem 2rem 0rem 3rem;
+  }
+  
+  .card h1{
+  font-size: 7.9rem;
+    margin: 0rem 0rem 0rem 21rem; /* 0.5 */ 
+  }
+  .card h2{
+   font-size: 4.6rem;
+   padding: 1.2rem;  /* 2 */ 
+  } 
+ .card p{
+   line-height: 6rem;
+   font-size: 4.2rem; /* 2 */  
+  } 
+  .links a{
+   font-size: 3.8rem;  /* 2  */
+  }
+  
+  
+  #scrollTopBtn {
+     font-size: 9.5rem;
+     }
+}
+
+
+@media(min-width: 1051px) and (max-width: 1100px){
+
+     /* navigation */
+   nav{
+      height: 220px;
+ }
+ /* header portfolio hearing */
+   nav #portfolio-heading{
+         font-size: 5.3rem;
+           margin: 1rem 0rem 0rem 1.6rem;
+   }
+  .nav{
+margin-top: -1%; 
+margin-right: 1%;
+margin-left: 25%;  
+} 
+ 
+   /* nav li font size */
+   .nav li{
+       font-size: 3.6rem;
+   }
+        /* siwtch button night / sun */
+        #mode-toggle{
+      top: 115px; 
+      font-size: 4.5rem;
+ }
+ 
+ /* header */
+   
+ .header_text{
+       margin: 26rem 0rem 0rem 4.6rem; /* 2 */
+       line-height: 1.5;
+ }
+    .typewriter {
+      font-size: 5.1rem; /* 2*/
+      }
+ .span_heading{
+     font-size: 4.2rem; /* 2*/
+     word-spacing: -10px;/* 2*/
+ }
+ .span_heading2{
+     font-size: 5rem;/* 2*/
+ }
+
+
+#header_pic{
+
+width: 34rem; /* 1*/
+height: 52rem; /* 3*/margin-left: 67vw;
+position: relative;
+   top: -34rem;
+
+
+}
+  .header_text button{
+      font-size: 4.5rem; /* 1 */
+  }
+  
+/* about section */
+
+about_section{
+    margin-top: -6rem;
+}
+
+#about-pic {
+  width: 28rem;
+  height: 52rem;
+  margin-left: 0.9rem;
+  margin-top: 1rem;
+  }
+  
+  .glass_box {
+  width: 63vw;
+  padding: 1rem;
+  position: relative;
+  top: -1rem;
+  margin-left: 1.3rem;
+  }
+  
+  #p_of_glass_box{
+  font-size: 3.5rem;
+  }
+  
+   .bubbling-text {
+   font-size: 9rem;
+   margin-left: 16rem;
+   }
+  
+   /* skills lines  */ 
+   
+   .skills-section {
+    width: 40vw;
+    margin-left: 1rem;
+    position: relative;
+  }
+  
+  .skill-name{
+     font-size: 2.2rem;
+  }
+ /* skills circle */  
+ .skills-wrapper{
+     gap: 250px;
+     color: #fff;
+     margin-top: -59rem;
+ position: relative;
+    grid-template-columns: repeat(2, 140px);
+    justify-content: end;   
+    column-gap: 12rem;                     
+ }
+ 
+.circle-box {
+  width: 80px;
+  height: 10px;
+  margin-right: 17rem;
+  }
+.circle-box .percent{
+  margin-top: 0;
+    top: 50%;
+    transform: translate(10%, 95%);  
+} 
+
+.circle-box .skill-label {
+    
+    margin-left: 3rem; 
+    font-size: 2rem; 
+  }
+  
+  /* what i do section */ 
+  
+ .slider-container h2{
+ font-size: 9.5rem;
+  margin: 0rem 0rem 0rem 25rem; /* 2 */
+}
+.glass-card{
+width: 58rem;
+    height: 27rem;
+}
+  .glass-card h3{
+    font-size: 3.8rem; /* 2 */  
+  }
+ .glass-card p{
+     font-size: 2.8rem; 
+  }
+   
+.nav-btn {
+  font-size: 14rem;
+  }
+  
+  /* project section */
+  
+  .card {
+  width: 89vw;
+  margin: 0rem 2rem 0rem 3rem;
+  }
+  
+  .card h1{
+  font-size: 8rem;
+    margin: 0rem 0rem 0rem 22rem; /* 0.5 */ 
+  }
+  .card h2{
+   font-size: 4.8rem;
+   padding: 1.3rem;  /* 2 */ 
+  } 
+ .card p{
+   line-height: 6rem;
+   font-size: 4.4rem; /* 2 */  
+  } 
+  .links a{
+   font-size: 4rem;  /* 2  */
+  }
+  
+  
+  #scrollTopBtn {
+     font-size: 10rem;
+     }
+}
+
+
+@media(min-width: 1101px) and (max-width: 1150px){
+
+     /* navigation */
+   nav{
+      height: 230px;
+ }
+ /* header portfolio hearing */
+   nav #portfolio-heading{
+         font-size: 5.4rem;
+           margin: 1rem 0rem 0rem 1.6rem;
+   }
+  .nav{
+margin-top: -1%; 
+margin-right: 1%;
+margin-left: 25%;  
+} 
+ 
+   /* nav li font size */
+   .nav li{
+       font-size: 3.7rem;
+   }
+        /* siwtch button night / sun */
+        #mode-toggle{
+      top: 125px;
+      font-size: 4.8rem;
+ }
+ 
+ /* header */
+   
+ .header_text{
+       margin: 27rem 0rem 0rem 4.8rem; /* 2 */
+       line-height: 1.5;
+ }
+    .typewriter {
+      font-size: 5.4rem; /* 2*/
+      }
+ .span_heading{
+     font-size: 4.4rem; /* 2*/
+     word-spacing: -16px;/* 2*/
+ }
+ .span_heading2{
+     font-size: 4.2rem;/* 2*/
+ }
+
+
+#header_pic{
+
+width: 34rem; /* 1*/
+height: 45rem; /* 3*/margin-left: 65vw;
+position: relative;
+   top: -26rem;
+
+
+}
+  .header_text button{
+      font-size: 4rem; /* 1 */
+  }
+  
+/* about section */
+
+about_section{
+    margin-top: -6rem;
+}
+
+#about-pic {
+  width: 29rem;
+  height: 54rem;
+  margin-left: 0.9rem;
+  margin-top: 1rem;
+  }
+  
+  .glass_box {
+  width: 64vw;
+  padding: 1rem;
+  position: relative;
+  top: -1rem;
+  margin-left: 1.3rem;
+  }
+  
+  #p_of_glass_box{
+  font-size: 3.6rem;
+  }
+  
+   .bubbling-text {
+   font-size: 8rem;
+   margin-left: 16rem;
+   }
+  
+   /* skills lines  */ 
+   
+   .skills-section {
+    width: 40vw;
+    margin-left: 1rem;
+    position: relative;
+  }
+  
+  .skill-name{
+     font-size: 2.3rem;
+  }
+ /* skills circle */  
+ .skills-wrapper{
+     gap: 250px;
+     color: #fff;
+     margin-top: -59rem;
+ position: relative;
+    grid-template-columns: repeat(2, 140px);
+    justify-content: end;   
+    column-gap: 12rem;                     
+ }
+ 
+.circle-box {
+  width: 85px;
+  height: 15px;
+  margin-right: 17rem;
+  }
+.circle-box .percent{
+  margin-top: 0;
+    top: 50%;
+    transform: translate(10%, 95%);  
+} 
+
+.circle-box .skill-label {
+    
+    margin-left: 3rem; 
+    font-size: 2rem; 
+  }
+  
+  
+  /* what i do section */ 
+  
+ .slider-container h2{
+ font-size: 10rem;
+  margin: 0rem 0rem 0rem 26rem; /* 2 */
+}
+.glass-card{
+width: 60rem;
+    height: 29rem;
+}
+  .glass-card h3{
+    font-size: 4rem; /* 2 */  
+  }
+ .glass-card p{
+     font-size: 2.9rem; 
+  }
+   
+.nav-btn {
+  font-size: 15rem;
+  }
+  
+  /* project section */
+  
+  .card {
+  width: 90vw;
+  margin: 0rem 2rem 0rem 3rem;
+  }
+  
+  .card h1{
+  font-size: 8.2rem;
+    margin: 0rem 0rem 0rem 24rem; /* 0.5 */ 
+  }
+  .card h2{
+   font-size: 5rem;
+   padding: 1.3rem;  /* 2 */ 
+  } 
+ .card p{
+   line-height: 6rem;
+   font-size: 4.6rem; /* 2 */  
+  } 
+  .links a{
+   font-size: 4.2rem;  /* 2  */
+  }
+  
+  
+  #scrollTopBtn {
+     font-size: 10.5rem;
+     }
+}
+
+@media(min-width: 1151px) and (max-width: 1200px){
+
+     /* navigation */
+   nav{
+      height: 240px;
+ }
+ /* header portfolio hearing */
+   nav #portfolio-heading{
+         font-size: 5.6rem;
+           margin: 1rem 0rem 0rem 1.7rem;
+   }
+  .nav{
+margin-top: -1%; 
+margin-right: 1%;
+margin-left: 25%;  
+} 
+ 
+   /* nav li font size */
+   .nav li{
+       font-size: 3.9rem;
+   }
+        /* siwtch button night / sun */
+        #mode-toggle{
+      top: 130px; 
+      font-size: 5.1rem;
+ }
+ 
+ /* header */
+   
+ .header_text{
+       margin: 28rem 0rem 0rem 5rem; /* 2 */
+       line-height: 1.5;
+ }
+    .typewriter {
+      font-size: 5.6rem; /* 2*/
+      }
+ .span_heading{
+     font-size: 4.6rem; /* 2*/
+     word-spacing: -16px;/* 2*/
+ }
+ .span_heading2{
+     font-size: 4.4rem;/* 2*/
+ }
+
+
+#header_pic{
+
+width: 35rem; /* 1*/
+height: 47rem; /* 3*/margin-left: 65vw;
+position: relative;
+   top: -26rem;
+
+
+}
+  .header_text button{
+      font-size: 4.2rem; /* 1 */
+  }
+  
+/* about section */
+
+about_section{
+    margin-top: -40rem;
+}
+
+#about-pic {
+  width: 30rem;
+  height: 56rem;
+  margin-left: 0.9rem;
+  margin-top: 0rem;
+  }
+  
+  .glass_box {
+  width: 65vw;
+  padding: 1rem;
+  position: relative;
+  top: -1rem;
+  margin-left: 1.3rem;
+  }
+  
+  #p_of_glass_box{
+  font-size: 3.7rem;
+  }
+  
+   .bubbling-text {
+   font-size: 8rem;
+   margin-left: 18rem;
+   }
+  
+   /* skills lines  */ 
+   
+   .skills-section {
+    width: 44vw;
+    margin-left: 1rem;
+    position: relative;
+  }
+  
+  .skill-name{
+     font-size: 2.4rem;
+  }
+ /* skills circle */  
+ .skills-wrapper{
+     gap: 250px;
+     color: #fff;
+     margin-top: -59rem;
+ position: relative;
+    grid-template-columns: repeat(2, 140px);
+    justify-content: end;   
+    column-gap: 12rem;                     
+ }
+ 
+.circle-box {
+  width: 85px;
+  height: 15px;
+  margin-right: 17rem;
+  }
+.circle-box .percent{
+  margin-top: 0;
+    top: 50%;
+    transform: translate(10%, 95%);  
+} 
+
+.circle-box .skill-label {
+    
+    margin-left: 3rem; 
+    font-size: 2rem; 
+  }
+  
+  
+  /* what i do section */ 
+  
+ .slider-container h2{
+ font-size: 10.5rem;
+  margin: 0rem 0rem 0rem 27rem; /* 2 */
+}
+.glass-card{
+width: 62rem;
+    height: 31rem;
+}
+  .glass-card h3{
+    font-size: 4.2rem; /* 2 */  
+  }
+ .glass-card p{
+     font-size: 3rem; 
+  }
+   
+.nav-btn {
+  font-size: 16rem;
+  }
+  
+  /* project section */
+  
+  .card {
+  width: 91vw;
+  margin: 0rem 2rem 0rem 3rem;
+  }
+  
+  .card h1{
+  font-size: 8.4rem;
+    margin: 0rem 0rem 0rem 25rem; /* 0.5 */ 
+  }
+  .card h2{
+   font-size: 5.2rem;
+   padding: 1.6rem;  /* 2 */ 
+  } 
+ .card p{
+   line-height: 6rem;
+   font-size: 4.8rem; /* 2 */  
+  } 
+  .links a{
+   font-size: 4.4rem;  /* 2  */
+  }
+  
+  
+  #scrollTopBtn {
+     font-size: 11rem;
+     }
+}
+
+@media(min-width: 1200px){
+
+     /* navigation */
+   nav{
+      height: 250px;
+ }
+ /* header portfolio hearing */
+   nav #portfolio-heading{
+         font-size: 5.8rem;
+           margin: 1rem 0rem 0rem 1.7rem;
+   }
+  .nav{
+margin-top: -1%; 
+margin-right: 1%;
+margin-left: 25%;  
+} 
+ 
+   /* nav li font size */
+   .nav li{
+       font-size: 4.1rem;
+   }
+         /* siwtch button night / sun */
+        #mode-toggle{
+      top: 140px; 
+      font-size: 5.5rem;
+ }
+ 
+ /* header */
+   
+ .header_text{
+       margin: 32rem 0rem 0rem 6rem; /* 2 */
+       line-height: 1.5;
+ }
+    .typewriter {
+      font-size: 6rem; /* 2*/
+      }
+ .span_heading{
+     font-size: 5rem; /* 2*/
+     word-spacing: -16px;/* 2*/
+ }
+ .span_heading2{
+     font-size: 5rem;/* 2*/
+ }
+
+
+#header_pic{
+
+width: 37rem; /* 1*/
+height: 57rem; /* 3*/margin-left: 69vw;
+position: relative;
+   top: -38rem;
+
+
+}
+  .header_text button{
+      font-size: 5rem; /* 1 */
+  }
+  
+/* about section */
+
+about_section{
+    margin-top: -60rem;
+}
+
+#about-pic {
+  width: 31rem;
+  height: 58rem;
+  margin-left: 0.9rem;
+  margin-top: 0rem;
+  }
+  
+  .glass_box {
+  width: 66vw;
+  padding: 1rem;
+  position: relative;
+  top: -1rem;
+  margin-left: 1.3rem;
+  }
+  
+  #p_of_glass_box{
+  font-size: 4.2rem;
+  }
+  
+   .bubbling-text {
+   font-size: 8.5rem;
+   margin-left: 24rem;
+   }
+  
+   /* skills lines  */ 
+   
+   .skills-section {
+    width: 45vw;
+    margin-left: 1rem;
+    position: relative;
+  }
+  
+  .skill-name{
+     font-size: 2.5rem;
+  }
+ /* skills circle */  
+ .skills-wrapper{
+     gap: 250px;
+     color: #fff;
+     margin-top: -59rem;
+ position: relative;
+    grid-template-columns: repeat(2, 140px);
+    justify-content: end;   
+    column-gap: 12rem;                     
+ }
+ 
+.circle-box {
+  width: 100px;
+  height: 30px;
+  margin-right: 19rem;
+  }
+.circle-box .percent{
+  margin-top: 0;
+    top: 50%;
+    transform: translate(10%, 95%);  
+} 
+
+.circle-box .skill-label {
+    
+    margin-left: 3rem; 
+    font-size: 2.3rem; 
+  }
+  
+  
+  /* what i do section */ 
+  
+ .slider-container h2{
+ font-size: 11rem;
+  margin: 0rem 0rem 0rem 35rem; /* 2 */
+}
+.glass-card{
+width: 64rem;
+    height: 34rem;
+}
+  .glass-card h3{
+    font-size: 4.4rem; /* 2 */  
+  }
+ .glass-card p{
+     font-size: 3.3rem; 
+  }
+   
+.nav-btn {
+  font-size: 18rem;
+  }
+  
+  /* project section */
+  
+  .card {
+  width: 93vw;
+  margin: 0rem 2rem 0rem 3rem;
+  }
+  
+  .card h1{
+  font-size: 8.8rem;
+    margin: 0rem 0rem 0rem 33rem; /* 0.5 */ 
+  }
+  .card h2{
+   font-size: 5.6rem;
+   padding: 1.6rem;  /* 2 */ 
+  } 
+ .card p{
+   line-height: 6rem;
+   font-size: 5.1rem; /* 2 */  
+  } 
+  .links a{
+   font-size: 4.8rem;  /* 2  */
+  }
+  
+  
+  #scrollTopBtn {
+     font-size: 12rem;
+     }
+}
+
+@media (min-width: 1440px) {
+  
+     /* navigation */
+   nav{
+      height: 280px;
+ }
+ /* header portfolio hearing */
+   nav #portfolio-heading{
+         font-size: 6rem;
+           margin: 1rem 0rem 0rem 2rem;
+   }
+  .nav{
+margin-top: -1%; 
+margin-right: 1%;
+margin-left: 25%;  
+} 
+ 
+   /* nav li font size */
+   .nav li{
+       font-size: 4.5rem;
+   }
+          /* siwtch button night / sun */
+        #mode-toggle{
+      top: 160px; 
+      font-size: 6rem;
+ }
+ 
+ /* header */
+   
+ .header_text{
+       margin: 34rem 0rem 0rem 7rem; /* 2 */
+       line-height: 1.5;
+ }
+    .typewriter {
+      font-size: 6.5rem; /* 2*/
+      }
+ .span_heading{
+     font-size: 5.5rem; /* 2*/
+     word-spacing: -16px;/* 2*/
+ }
+ .span_heading2{
+     font-size: 5.5rem;/* 2*/
+ }
+
+
+#header_pic{
+
+width: 38rem; /* 1*/
+height: 64rem; /* 3*/margin-left: 65vw;
+position: relative;
+   top: -40rem;
+
+
+}
+  .header_text button{
+      font-size: 6rem; /* 1 */
+  }
+  
+/* about section */
+
+about_section{
+    margin-top: -100rem;
+}
+
+#about-pic {
+  width: 33rem;
+  height: 60rem;
+  margin-left: 0.9rem;
+  margin-top: 0rem;
+  }
+  
+  .glass_box {
+  width: 68vw;
+  padding: 1rem;
+  position: relative;
+  top: -1rem;
+  margin-left: 1.3rem;
+  }
+  
+  #p_of_glass_box{
+  font-size: rem;
+  }
+  
+   .bubbling-text {
+   font-size: 8.1rem;
+   margin-left: 30rem;
+   }
+  
+   /* skills lines  */ 
+   
+   .skills-section {
+    width: 47vw;
+    margin-left: 1rem;
+    position: relative;
+  }
+  
+  .skill-name{
+     font-size: 2.7rem;
+  }
+ /* skills circle */  
+ .skills-wrapper{
+     gap: 280px;
+     color: #fff;
+     margin-top: -59rem;
+ position: relative;
+    grid-template-columns: repeat(2, 140px);
+    justify-content: end;   
+    column-gap: 12rem;                     
+ }
+ 
+.circle-box {
+  width: 90px;
+  height: 20px;
+  margin-right: 20rem;
+  }
+.circle-box .percent{
+  margin-top: 0;
+    top: 50%;
+    transform: translate(10%, 95%);  
+} 
+
+.circle-box .skill-label {
+    
+    margin-left: 3rem; 
+    font-size: 2.5rem; 
+  }
+  
+  
+  /* what i do section */ 
+  
+ .slider-container h2{
+ font-size: 12rem;
+  margin: 0rem 0rem 0rem 40rem; /* 2 */
+}
+.glass-card{
+width: 68rem;
+    height: 36rem;
+}
+  .glass-card h3{
+    font-size: 4.8rem; /* 2 */  
+  }
+ .glass-card p{
+     font-size: 3.6rem; 
+  }
+   
+.nav-btn {
+  font-size: 20rem;
+  }
+  
+  /* project section */
+  
+  .card {
+  width: 95vw;
+  margin: 0rem 2rem 0rem 3rem;
+  }
+  
+  .card h1{
+  font-size: 9.2rem;
+    margin: 0rem 0rem 0rem 45rem; /* 0.5 */ 
+  }
+  .card h2{
+   font-size: 5.9rem;
+   padding: 1.6rem;  /* 2 */ 
+  } 
+ .card p{
+   line-height: 6rem;
+   font-size: 5.5rem; /* 2 */  
+  } 
+  .links a{
+   font-size: 5.2rem;  /* 2  */
+  }
+  
+  
+  #scrollTopBtn {
+     font-size: 14rem;
+     }
+   
+}
+
+@media (min-width: 1920px) {
+  /* Only if your design looks too small on 1080p+ */
+   /* header */
+   nav{
+      height: 270px;
+ }
+ /* header portfolio hearing */
+   nav #portfolio-heading{
+         font-size: 6.3rem;
+           margin: 1rem 0rem 0rem 2.3rem;
+   }
+  .nav{
+margin-top: -1%; 
+margin-right: 1%;
+margin-left: 25%;  
+} 
+ 
+   /* nav li font size */
+   .nav li{
+       font-size: 4.8rem;
+   }
+   
+           /* siwtch button night / sun */
+        #mode-toggle{
+      top: 160px; 
+      font-size: 7rem;
+ }
+ 
+ /* header */
+   
+ .header_text{
+       margin: 36rem 0rem 0rem 8rem; /* 2 */
+       line-height: 1.5;
+ }
+    .typewriter {
+      font-size: 7rem; /* 2*/
+      }
+ .span_heading{
+     font-size: 7rem; /* 2*/
+     word-spacing: -16px;/* 2*/
+ }
+ .span_heading2{
+     font-size: 7rem;/* 2*/
+ }
+
+
+#header_pic{
+
+width: 42rem; /* 1*/
+height: 68rem; /* 3*/margin-left: 65vw;
+position: relative;
+   top: -44rem;
+
+
+}
+  .header_text button{
+      font-size: 7rem; /* 1 */
+  }
+  
+/* about section */
+
+about_section{
+    margin-top: -100rem;
+}
+
+#about-pic {
+  width: 35rem;
+  height: 65rem;
+  margin-left: 0.9rem;
+  margin-top: 0rem;
+  }
+  
+  .glass_box {
+  width: 70vw;
+  padding: 1rem;
+  position: relative;
+  top: -1rem;
+  margin-left: 1.3rem;
+  }
+  
+   .bubbling-text {
+   font-size: 8.1rem;
+   margin-left: 30rem;
+   }
+  
+   /* skills lines  */ 
+   
+   .skills-section {
+    width: 50vw;
+    margin-left: 4rem;
+    position: relative;
+  }
+  
+  .skill-name{
+     font-size: 3rem;
+  }
+ /* skills circle */  
+ .skills-wrapper{
+     gap: 300px;
+     color: #fff;
+     margin-top: -70rem;
+ position: relative;
+    grid-template-columns: repeat(2, 140px);
+    justify-content: end;   
+    column-gap: 12rem;                     
+ }
+ 
+.circle-box {
+  width: 120px;
+  height: 40px;
+  margin-right: 26rem;
+  }
+.circle-box .percent{
+  margin-top: 0;
+    top: 50%;
+    transform: translate(-10%, 90%);  
+} 
+
+.circle-box .skill-label {
+    
+    margin-left: 3rem; 
+    font-size: 3rem; 
+  }
+  
+  /* what i do section */ 
+  
+ .slider-container h2{
+ font-size: 14rem;
+  margin: 0rem 0rem 0rem 55rem; /* 2 */
+}
+.glass-card{
+width: 70rem;
+    height: 38rem;
+}
+  .glass-card h3{
+    font-size: 5.2rem; /* 2 */  
+  }
+ .glass-card p{
+     font-size: 4rem; 
+  }
+   
+.nav-btn {
+  font-size: 22rem;
+  }
+  
+  /* project section */
+  
+  .card {
+  width: 97vw;
+  margin: 0rem 2rem 0rem 3rem;
+  }
+  
+  .card h1{
+  font-size: 9.6rem;
+    margin: 0rem 0rem 0rem 60rem; /* 0.5 */ 
+  }
+  .card h2{
+   font-size: 6.3rem;
+   padding: 2rem;  /* 2 */ 
+  } 
+ .card p{
+   line-height: 6rem;
+   font-size: 6rem; /* 2 */  
+  } 
+  .links a{
+   font-size: 5.8rem;  /* 2  */
+  }
+  
+  
+  #scrollTopBtn {
+     font-size: 16rem;
+     }
+   
+}

@@ -1,0 +1,1326 @@
+/* 360px */
+@media (min-width: 360px) and (max-width: 399px) {
+  
+  /* footer section */
+  .main-p {
+    font-size: 1.5rem;
+  }
+  .credits {
+    font-size: 1.4rem;
+  }
+  
+}
+
+/* 400px */
+@media (min-width: 400px) and (max-width: 449px) {
+  
+  /* contact section */
+  
+  #contact h1{
+ margin: -2rem 0rem 1rem 9.2rem;
+ font-size: 4rem;  
+  }  
+  
+  #contact h2{
+     font-size: 2.5rem; 
+  }
+  #contact p{
+       font-size: 2rem; 
+  }
+  .email-div strong{
+      font-size: 3rem;
+  }
+  .email-div span{
+      font-size: 3rem;
+  }
+  
+  #contact a{
+      font-size: 2.5rem;
+  }
+  
+  /* footer section */
+  .main-p {
+    font-size: 1.6rem;
+  }
+  .credits {
+    font-size: 1.5rem;
+  }
+}
+
+/* 450px */
+@media (min-width: 450px) and (max-width: 499px) {
+ 
+   /* blog section */
+   
+  .section-title{
+      font-size: 4.5rem; 
+  }
+  
+  .blog-card h1{
+    font-size: 4rem;
+  }
+  
+  .blog-card h2 {
+   font-size: 3rem;
+  }
+  
+  .blog-card p {
+   font-size: 2rem;
+  }
+  
+  .blog-card em{
+      font-size: 3rem;
+  }
+  
+  .read-more-btn {
+    font-size: 2.5rem;
+  }
+  
+  /* contact section */
+  #contact h1{
+ margin: -2rem 0rem 1rem 10.2rem;
+ font-size: 4.5rem;  
+  }  
+  
+  #contact h2{
+     font-size: 2.7rem; 
+  }
+  #contact p{
+       font-size: 2.2rem; 
+  }
+  .email-div strong{
+      font-size: 3.2rem;
+  }
+  .email-div span{
+      font-size: 3.2rem;
+  }
+  
+  #contact a{
+      font-size: 2.7rem;
+  }
+  
+   /* footer section */
+  .main-p {
+    font-size: 1.7rem; /* 0.1 */
+  }
+  .credits {
+    font-size: 1.6rem; 
+  }
+}
+
+/* 500px */
+@media (min-width: 500px) and (max-width: 549px) {
+
+
+   /* blog section */
+   
+  .section-title{
+      font-size: 5rem; 
+  }
+  
+  .blog-card h1{
+    font-size: 4rem;
+  }
+  
+  .blog-card h2 {
+   font-size: 3.5rem;
+  }
+  
+  .blog-card p {
+   font-size: 2.5rem;
+  }
+  
+  .blog-card em{
+      font-size: 3.5rem;
+  }
+  
+  .read-more-btn {
+    font-size: 3rem;
+  }
+  
+ 
+  /* contact section */
+  #contact h1{
+ margin: -2rem 0rem 1rem 11.2rem;
+ font-size: 5rem;  
+  }  
+  
+  #contact h2{
+     font-size: 2.9rem; 
+  }
+  #contact p{
+       font-size: 2.4rem; 
+  }
+  .email-div strong{
+      font-size: 3.4rem;
+  }
+  .email-div span{
+      font-size: 3.4rem;
+  }
+  
+  #contact a{
+      font-size: 2.9rem;
+  }
+  
+  /* footer section */
+  .main-p {
+    font-size: 1.8rem; /* 0.1 */
+  }
+  .credits {
+    font-size: 1.7rem; 
+  }
+  }
+
+/* 550px */
+@media (min-width: 550px) and (max-width: 599px) {
+ 
+ 
+   /* blog section */
+   
+  .section-title{
+      font-size: 6rem; 
+  }
+  
+  .blog-card h1{
+    font-size: 4.5rem;
+  }
+  
+  .blog-card h2 {
+   font-size: 4rem;
+  }
+  
+  .blog-card p {
+   font-size: 3rem;
+  }
+  
+  .blog-card em{
+      font-size: 4rem;
+  }
+  
+  .read-more-btn {
+    font-size: 4rem;
+  }
+  
+  
+  /* contact section */
+  #contact h1{
+ margin: -2rem 0rem 1rem 12.2rem;
+ font-size: 5.5rem;  
+  }  
+  
+  #contact h2{
+     font-size: 3.1rem; 
+  }
+  #contact p{
+       font-size: 2.6rem; 
+  }
+  .email-div strong{
+      font-size: 3.6rem;
+  }
+  .email-div span{
+      font-size: 3.6rem;
+  }
+  
+  #contact a{
+      font-size: 3.1rem;
+  }
+  
+  /* footer section */
+  .main-p {
+    font-size: 1.9rem; /* 0.1 */
+  }
+  .credits {
+    font-size: 1.7rem; 
+  }
+}
+
+/* 600px */
+@media (min-width: 600px) and (max-width: 649px) {
+  /* styles for 600px - 649px */
+  
+   /* blog section */
+   
+  .section-title{
+      font-size: 5rem; 
+  }
+  
+  .blog-card h1{
+    font-size: 5rem;
+  }
+  
+  .blog-card h2 {
+   font-size: 4.5rem;
+  }
+  
+  .blog-card p {
+   font-size: 3.5rem;
+  }
+  
+  .blog-card em{
+      font-size: 4.5rem;
+  }
+  
+  .read-more-btn {
+    font-size: 5rem;
+  }
+  
+  
+  /* contact section */
+  #contact h1{
+ margin: -2rem 0rem 1rem 13.2rem;
+ font-size: 6rem;  
+  }  
+  
+  #contact h2{
+     font-size: 3.3rem; 
+  }
+  #contact p{
+       font-size: 2.8rem; 
+  }
+  .email-div strong{
+      font-size: 3.8rem;
+  }
+  .email-div span{
+      font-size: 3.8rem;
+  }
+  
+  #contact a{
+      font-size: 3.3rem;
+  }
+  
+  /* footer section */
+  .main-p {
+    font-size: 2rem; /* 0.1 */
+  }
+  .credits {
+    font-size: 1.7rem; 
+  }
+}
+
+/* 650px */
+@media (min-width: 650px) and (max-width: 699px) {
+  /* styles for 650px - 699px */
+  
+  
+   /* blog section */
+   
+  .section-title{
+      font-size: 6rem; 
+  }
+    
+   /* .blog-box {
+       margin-left: 20%;
+       }*/
+  
+  .blog-card h1{
+    font-size: 5rem;
+  }
+  
+  .blog-card h2 {
+   font-size: 4.5rem;
+  }
+  
+  .blog-card p {
+   font-size: 3.5rem;
+  }
+  
+  .blog-card em{
+      font-size: 4.5rem;
+  }
+  
+  .read-more-btn {
+    font-size: 5rem;
+  }
+  
+  
+  /* contact section */
+  #contact h1{
+ margin: -2rem 0rem 1rem 14.8rem;
+ font-size: 6.5rem;  
+  }  
+  
+  #contact h2{
+     font-size: 3.8rem; 
+  }
+  #contact p{
+       font-size: 3rem; 
+  }
+  .email-div strong{
+      font-size: 4rem;
+  }
+  .email-div span{
+      font-size: 4rem;
+  }
+  
+  #contact a{
+      font-size: 3.5rem;
+  }
+  
+  
+  /* footer section */
+  .main-p {
+    font-size: 2.1rem; /* 0.1 */
+  }
+  .credits {
+    font-size: 1.8rem; 
+  }
+}
+
+/* 700px */
+@media (min-width: 700px) and (max-width: 749px) {
+  /* styles for 700px - 749px */
+
+/* blog section */
+   
+  .section-title{
+      font-size: 7rem; 
+  }
+    
+   .blog-container {
+       margin-left: 4%;
+       }
+  
+  .blog-card h1{
+    font-size: 5.2rem;
+  }
+  
+  .blog-card h2 {
+   font-size: 4.7rem;
+  }
+  
+  .blog-card p {
+   font-size: 3.6rem;
+  }
+  
+  .blog-card em{
+      font-size: 4.7rem;
+  }
+  
+  .read-more-btn {
+  margin-left: 8rem;
+    font-size: 4rem;
+  }
+
+  /* contact section */
+  
+  #contact h1{
+ margin: -2rem 0rem 1rem 16rem;
+ font-size: 7rem;  
+  }  
+  
+  #contact h2{
+     font-size: 4rem; 
+  }
+  #contact p{
+       font-size: 3.2rem; 
+  }
+  .email-div strong{
+      font-size: 4.2rem;
+  }
+  .email-div span{
+      font-size: 4.2rem;
+  }
+  
+  #contact a{
+      font-size: 3.7rem;
+  }
+  
+  /* footer section */
+  .main-p {
+    font-size: 2.2rem; /* 0.1 */
+  }
+  .credits {
+    font-size: 2.1rem; 
+  }
+  .credits p{
+    font-size: 1.7rem;
+}
+}
+
+/* 750px */
+@media (min-width: 750px) and (max-width: 799px) {
+  /* styles for 750px - 799px */
+
+
+/* blog section */
+   
+  .section-title{
+      font-size: 8rem; 
+  }
+  
+   .blog-container {
+       margin-left: 5%;
+       } 
+  
+  .blog-card h1{
+    font-size: 5.2rem;
+  }
+  
+  .blog-card h2 {
+   font-size: 4.7rem;
+  }
+  
+  .blog-card p {
+   font-size: 3.6rem;
+  }
+  
+  .blog-card em{
+      font-size: 4.7rem;
+  }
+  
+  .read-more-btn {
+  margin-left: 4rem;
+    font-size: 4.5rem;
+  }
+  
+  
+  /* contact section */
+  
+  #contact h1{
+ margin: -2rem 0rem 1rem 17.2rem;
+ font-size: 7.5rem;  
+  }  
+  
+  #contact h2{
+     font-size: 4.2rem; 
+  }
+  #contact p{
+       font-size: 3.4rem; 
+  }
+  .email-div strong{
+      font-size: 4.4rem;
+  }
+  .email-div span{
+      font-size: 4.4rem;
+  }
+  
+  #contact a{
+      font-size: 3.9rem;
+  }
+  
+   /* footer section */
+  .main-p {
+    font-size: 2.3rem; /* 0.1 */
+  }
+  .credits {
+    font-size: 2.2rem; 
+  }
+  .credits p{
+    font-size: 1.8rem;
+}
+  
+}
+
+/* 800px */
+@media (min-width: 800px) and (max-width: 849px) {
+  /* styles for 800px - 849px */
+
+/* blog section */
+   
+  .section-title{
+      font-size: 8.5rem; 
+  }
+  
+   .blog-container {
+       margin-left: 5%;
+       } 
+  
+  .blog-card h1{
+    font-size: 5.2rem;
+  }
+  
+  .blog-card h2 {
+   font-size: 4.7rem;
+  }
+  
+  .blog-card p {
+   font-size: 3.6rem;
+  }
+  
+  .blog-card em{
+      font-size: 4.7rem;
+  }
+  
+  .read-more-btn {
+  margin-left: 4rem;
+    font-size: 4.5rem;
+  }
+  
+  /* contact section */
+  
+  #contact h1{
+ margin: -2rem 0rem 1rem 18.4rem;
+ font-size: 8rem;  
+  }  
+  
+  #contact h2{
+     font-size: 4.4rem; 
+  }
+  #contact p{
+       font-size: 3.6rem; 
+  }
+  .email-div strong{
+      font-size: 4.6rem;
+  }
+  .email-div span{
+      font-size: 4.6rem;
+  }
+  
+  #contact a{
+      font-size: 4.1rem;
+  }
+    /* footer section */
+  .main-p {
+    font-size: 2.5rem; /* 0.2 */
+  }
+  .credits {
+    font-size: 2.4rem; /* 0.2 */
+  }
+  .credits p{
+     font-size: 1.9rem;
+}
+
+}
+
+/* 850px */
+@media (min-width: 850px) and (max-width: 899px) {
+  /* styles for 850px - 899px */
+
+/* blog section */
+   
+  .section-title{
+      font-size: 9rem; 
+  }
+  
+   .blog-container {
+       margin-left: 5%;
+       } 
+  
+  .blog-card h1{
+    font-size: 5.4rem;
+  }
+  
+  .blog-card h2 {
+   font-size: 4.9rem;
+  }
+  
+  .blog-card p {
+   font-size: 3.8rem;
+  }
+  
+  .blog-card em{
+      font-size: 4.9rem;
+  }
+  
+  .read-more-btn {
+  margin-left: 4rem;
+    font-size: 5rem;
+  }
+  
+  
+  /* contact section */
+  
+  #contact h1{
+ margin: -2rem 0rem 1rem 19.6rem;
+ font-size: 8.5rem;  
+  }  
+  
+  #contact h2{
+     font-size: 4.6rem; 
+  }
+  #contact p{
+       font-size: 3.8rem; 
+  }
+  .email-div strong{
+      font-size: 4.8rem;
+  }
+  .email-div span{
+      font-size: 4.8rem;
+  }
+  
+  #contact a{
+      font-size: 4.3rem;
+  }
+  
+     /* footer section */
+  .main-p {
+    font-size: 2.7rem; /* 0.2 */
+  }
+  .credits {
+    font-size: 2.6rem; /* 0.2 */
+  }
+  .credits p{
+    font-size: 1.9rem;
+}
+}
+
+/* 900px */
+@media (min-width: 900px) and (max-width: 949px) {
+  /* styles for 900px - 949px */
+
+/* blog section */
+   
+  .section-title{
+      font-size: 9.5rem; 
+  }
+  
+   .blog-container {
+       margin-left: 5%;
+       } 
+  
+  .blog-card h1{
+    font-size: 5.6rem;
+  }
+  
+  .blog-card h2 {
+   font-size: 5.1rem;
+  }
+  
+  .blog-card p {
+   font-size: 4rem;
+  }
+  
+  .blog-card em{
+      font-size: 5.1rem;
+  }
+  
+  .read-more-btn {
+  margin-left: 4rem;
+    font-size: 5.2rem;
+  }
+  
+  
+  /* contact section */
+  
+  #contact h1{
+ margin: -2rem 0rem 1rem 20.8rem;
+ font-size: 9rem;  
+  }  
+  
+  #contact h2{
+     font-size: 4.8rem; 
+  }
+  #contact p{
+       font-size: 4rem; 
+  }
+  .email-div strong{
+      font-size: 5rem;
+  }
+  .email-div span{
+      font-size: 5rem;
+  }
+  
+  #contact a{
+      font-size: 4.5rem;
+  }
+  
+      /* footer section */
+  .main-p {
+    font-size: 2.9rem; /* 0.2 */
+  }
+  .credits {
+    font-size: 2.8rem; /* 0.2 */
+  }
+  .credits p{
+    font-size: 1.9rem;
+}
+}
+
+/* 950px */
+@media (min-width: 950px) and (max-width: 999px) {
+  /* styles for 950px - 999px */
+
+/* blog section */
+   
+  .section-title{
+      font-size: 10rem; 
+  }
+  
+   .blog-container {
+       margin-left: 5%;
+       } 
+  
+  .blog-card h1{
+    font-size: 5.8rem;
+  }
+  
+  .blog-card h2 {
+   font-size: 5.3rem;
+  }
+  
+  .blog-card p {
+   font-size: 4.2rem;
+  }
+  
+  .blog-card em{
+      font-size: 5.3rem;
+  }
+  
+  .read-more-btn {
+  margin-left: 4rem;
+    font-size: 5.4rem;
+  }
+  
+  
+  /* contact section */
+  
+  #contact h1{
+ margin: -2rem 0rem 1rem 22rem;
+ font-size: 9.5rem;  
+  }  
+  
+  #contact h2{
+     font-size: 5rem; 
+  }
+  #contact p{
+       font-size: 4.2rem; 
+  }
+  .email-div strong{
+      font-size: 5.2rem;
+  }
+  .email-div span{
+      font-size: 5.2rem;
+  }
+  
+  #contact a{
+      font-size: 4.7rem;
+  }
+  
+       /* footer section */
+  .main-p {
+    font-size: 3.1rem; /* 0.2 */
+  }
+  .credits {
+    font-size: 3rem; /* 0.2 */
+  }
+  .credits p{
+    font-size: 2rem;
+}
+
+}
+
+/* 1000px */
+@media (min-width: 1000px) and (max-width: 1049px) {
+  /* styles for 1000px - 1049px */
+
+
+/* blog section */
+   
+  .section-title{
+      font-size: 10.5rem; 
+  }
+  
+   .blog-container {
+       margin-left: 5%;
+       } 
+  
+  .blog-card h1{
+    font-size: 6rem;
+  }
+  
+  .blog-card h2 {
+   font-size: 5.5rem;
+  }
+  
+  .blog-card p {
+   font-size: 4.4rem;
+  }
+  
+  .blog-card em{
+      font-size: 5.5rem;
+  }
+  
+  .read-more-btn {
+  margin-left: 4rem;
+    font-size: 5.6rem;
+  }
+  
+  
+  /* contact section */
+  
+  #contact h1{
+ margin: -2rem 0rem 1rem 23.2rem;
+ font-size: 10rem;  
+  }  
+  
+  #contact h2{
+     font-size: 5.2rem; 
+  }
+  #contact p{
+       font-size: 4.4rem; 
+  }
+  .email-div strong{
+      font-size: 5.4rem;
+  }
+  .email-div span{
+      font-size: 5.4rem;
+  }
+  
+  #contact a{
+      font-size: 4.9rem;
+  }
+  
+        /* footer section */
+  .main-p {
+    font-size: 3.4rem; /* 0.2 */
+  }
+  .credits {
+    font-size: 3.3rem; /* 0.2 */
+  }
+  .credits p{
+     font-size: 2rem;
+}
+}
+
+/* 1050px */
+@media (min-width: 1050px) and (max-width: 1099px) {
+  /* styles for 1050px - 1099px */
+  
+  
+/* blog section */
+   
+  .section-title{
+      font-size: 11rem; 
+  }
+  
+   .blog-container {
+       margin-left: 5%;
+       } 
+  
+  .blog-card h1{
+    font-size: 6.2rem;
+  }
+  
+  .blog-card h2 {
+   font-size: 5.7rem;
+  }
+  
+  .blog-card p {
+   font-size: 4.6rem;
+  }
+  
+  .blog-card em{
+      font-size: 5.7rem;
+  }
+  
+  .read-more-btn {
+ margin-top: 10rem;
+  margin-left: -rem;
+    font-size: 5.5rem;
+  }
+ 
+ @media(min-width: 1062px){
+   .read-more-btn {
+ margin-top: 10rem;
+  margin-left: -0rem;
+    font-size: 5.5rem;
+  } 
+     
+ }
+  
+  
+  
+  /* contact section */
+  
+  #contact h1{
+ margin: -2rem 0rem 1rem 24.4rem;
+ font-size: 10.5rem;  
+  }  
+  
+  #contact h2{
+     font-size: 5.4rem; 
+  }
+  #contact p{
+       font-size: 4.6rem; 
+  }
+  .email-div strong{
+      font-size: 5.6rem;
+  }
+  .email-div span{
+      font-size: 5.6rem;
+  }
+  
+  #contact a{
+      font-size: 5.1rem;
+  }
+  
+         /* footer section */
+  .main-p {
+    font-size: 3.6rem; /* 0.2 */
+  }
+  .credits {
+    font-size: 3.5rem; /* 0.2 */
+  }
+  .credits p{
+    font-size: 2.1rem;
+}
+}
+
+/* 1100px */
+@media (min-width: 1100px) and (max-width: 1149px) {
+  /* styles for 1100px - 1149px */
+  
+/* blog section */
+   
+  .section-title{
+      font-size: 11.5rem; 
+  }
+  
+   .blog-container {
+   
+       margin-left: 5%;
+       } 
+  
+  .blog-card h1{
+    font-size: 6.4rem;
+  }
+  
+  .blog-card h2 {
+   font-size: 5.9rem;
+  }
+  
+  .blog-card p {
+   font-size: 4.8rem;
+  }
+  
+  .blog-card em{
+      font-size: 5.9rem;
+  }
+  
+  .read-more-btn {
+  margin-top: 10rem;
+  margin-left: 0rem;
+    font-size: 6rem;
+  }
+  
+  /* contact section */
+  
+  #contact h1{
+ margin: -2rem 0rem 1rem 25.6rem;
+ font-size: 11rem;  
+  }  
+  
+  #contact h2{
+     font-size: 5.6rem; 
+  }
+  #contact p{
+       font-size: 4.8rem; 
+  }
+  .email-div strong{
+      font-size: 5.8rem;
+  }
+  .email-div span{
+      font-size: 5.8rem;
+  }
+  
+  #contact a{
+      font-size: 5.3rem;
+  }
+  
+         /* footer section */
+  .main-p {
+    font-size: 3.8rem; /* 0.2 */
+  }
+  .credits {
+    font-size: 3.7rem; /* 0.2 */
+  }
+  .credits p{
+  font-size: 2.2rem;
+}
+  
+}
+
+/* 1150px */
+@media (min-width: 1150px) and (max-width: 1199px) {
+  /* styles for 1150px - 1199px */
+  
+/* blog section */
+   
+  .section-title{
+      font-size: 12rem; 
+  }
+  
+   .blog-container {
+   
+       margin-left: 5%;
+       } 
+  
+  .blog-card h1{
+    font-size: 6.6rem;
+  }
+  
+  .blog-card h2 {
+   font-size: 6.1rem;
+  }
+  
+  .blog-card p {
+   font-size: 5rem;
+  }
+  
+  .blog-card em{
+      font-size: 6.1rem;
+  }
+  
+  .read-more-btn {
+  margin-top: 10rem;
+  margin-left: 0rem;
+    font-size: 6.2rem;
+  }
+  
+  /* contact section */
+  
+  #contact h1{
+ margin: -2rem 0rem 1rem 26.8rem;
+ font-size: 11.5rem;  
+  }  
+  
+  #contact h2{
+     font-size: 5.8rem; 
+  }
+  #contact p{
+       font-size: 5rem; 
+  }
+  .email-div strong{
+      font-size: 6rem;
+  }
+  .email-div span{
+      font-size: 6rem;
+  }
+  
+  #contact a{
+      font-size: 5.5rem;
+  }
+  
+   
+         /* footer section */
+  .main-p {
+    font-size: 4rem; /* 0.2 */
+  }
+  .credits {
+    font-size: 3.9rem; /* 0.2 */
+  }
+  .credits p{
+  font-size: 2.2rem;
+}
+}
+
+/* 1200px and above */
+@media (min-width: 1200px) {
+  /* styles for 1200px and up */
+
+/* blog section */
+   
+  .section-title{
+      font-size: 14rem; 
+  }
+  
+   .blog-container {
+   
+       margin-left: 5%;
+       } 
+  
+  .blog-card h1{
+    font-size: 7rem;
+  }
+  
+  .blog-card h2 {
+   font-size: 6.6rem;
+  }
+  
+  .blog-card p {
+   font-size: 5.5rem;
+  }
+  
+  .blog-card em{
+      font-size: 6.5rem;
+  }
+  
+  .read-more-btn {
+  margin-top: 10rem;
+  margin-left: 0rem;
+    font-size: 7rem;
+  }
+  
+  
+  /* contact section */
+  
+  #contact h1{
+ margin: -2rem 0rem 1rem 30rem;
+ font-size: 13rem;  
+  }  
+  
+  #contact h2{
+     font-size: 6.5rem; 
+  }
+  #contact p{
+       font-size: 5.5rem; 
+  }
+  .email-div strong{
+      font-size: 6.5rem;
+  }
+  .email-div span{
+      font-size: 6.5rem;
+  }
+  
+  #contact a{
+      font-size: 7rem;
+  }
+
+  
+         /* footer section */
+  .main-p {
+    font-size: 4.3rem; /* 0.2 */
+  }
+  .credits {
+    font-size: 4.1rem; /* 0.2 */
+  }
+  .credits p{
+    font-size: 2.4rem;
+}
+}
+
+@media (min-width: 1440px) {
+
+/* blog section */
+   
+  .section-title{
+      font-size: 16rem; 
+  }
+  
+   .blog-container {
+   
+       margin-left: 5%;
+       } 
+  
+  .blog-card h1{
+    font-size: 7.5rem;
+  }
+  
+  .blog-card h2 {
+   font-size: 7rem;
+  }
+  
+  .blog-card p {
+   font-size: 6rem;
+  }
+  
+  .blog-card em{
+      font-size: 7rem;
+  }
+  
+  .read-more-btn {
+  margin-top: 10rem;
+  margin-left: 0rem;
+    font-size: 7.5rem;
+  }
+  
+  
+  /* contact section */
+  
+  #contact h1{
+ margin: -2rem 0rem 1rem 33rem;
+ font-size: 15rem;  
+  }  
+  
+  #contact h2{
+     font-size: 7rem; 
+  }
+  #contact p{
+       font-size: 6rem; 
+  }
+  .email-div strong{
+      font-size: 7rem;
+  }
+  .email-div span{
+      font-size: 7rem;
+  }
+  
+  #contact a{
+      font-size: 9rem;
+  }
+  
+   
+         /* footer section */
+  .main-p {
+    font-size: 4.5rem; /* 0.2 */
+  }
+  .credits {
+    font-size: 4.4rem; /* 0.2 */
+  }
+  .credits p{
+     font-size: 2.5rem;
+}
+}
+
+
+@media (min-width: 1920px) {
+ 
+/* blog section */
+   
+  .section-title{
+      font-size: 18rem; 
+  }
+  
+   .blog-container {
+   
+       margin-left: 5%;
+       } 
+  
+  .blog-card h1{
+    font-size: 8.5rem;
+  }
+  
+  .blog-card h2 {
+   font-size: 8rem;
+  }
+  
+  .blog-card p {
+   font-size: 7rem;
+  }
+  
+  .blog-card em{
+      font-size: 8rem;
+  }
+  
+  .read-more-btn {
+  margin-top: 10rem;
+  margin-left: 0rem;
+    font-size: 8.5rem;
+  }
+  
+  /* contact section */
+  
+  #contact h1{
+ margin: -2rem 0rem 1rem 38rem;
+ font-size: 17rem;  
+  }  
+  
+  #contact h2{
+     font-size: 8rem; 
+  }
+  #contact p{
+       font-size: 7rem; 
+  }
+  .email-div strong{
+      font-size: 8rem;
+  }
+  .email-div span{
+      font-size: 8rem;
+  }
+  
+  #contact a{
+      font-size: 10rem;
+  }
+  
+    
+         /* footer section */
+  .main-p {
+    font-size: 4.7rem; /* 0.2 */
+  }
+  .credits {
+    font-size: 4.6rem; /* 0.2 */
+  }
+  .credits p{
+    font-size: 3rem;
+}
+}
